@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mohamed363936_lang.sahlha",
+        "sha256_cert_fingerprints": ["29:F8:ED:73:67:BB:B5:21:62:4F:73:56:E4:F1:6D:0B:48:5E:74:86:5E:5A:FA:2A:79:CE:88:DD:6C:22:5C:BC"]
+      }
+    }]
